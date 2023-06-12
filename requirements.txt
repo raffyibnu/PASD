@@ -1,0 +1,10 @@
+pandas 
+seaborn 
+numpy 
+matplotlib.pyplot
+streamlit 
+DecisionTreeClassifier
+train_test_split
+accuracy_score
+classification_report
+RandomForestClassifier
